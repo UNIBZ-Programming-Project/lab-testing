@@ -18,7 +18,7 @@ This can be obtained by instantiating the classes above as follows:
 new Rule(
   new Condition[]{
     new Condition(true, 0, 6, false),
-    new Condition( true, 0,5,true)
+    new Condition(true, 0, 5, true)
   },
   10
 );
